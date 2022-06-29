@@ -12,5 +12,5 @@
 <!-- [**Computer Science Overview**](https://github.com/sookyeongyeom/computer-science-overview) -->
 
    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sookyeongyeom&exclude_repo=sookyeongyeom.github.io&hide_title=&hide=scss,shaderlab,HLSL,css,hack&layout=compact&langs_count=10&theme=maroongold)](https://github.com/sookyeongyeom/github-readme-stats)  
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sookyeongyeom&exclude_repo=sookyeongyeom.github.io&hide_title=&hide=scss,shaderlab,HLSL,css,hack&layout=compact&langs_count=10&theme=maroongold)](https://github.com/sookyeongyeom/github-readme-stats)  -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sookyeongyeom&count_private=true&hide_title=true&custom_title=Since%202022&hide=stars,prs,issues,contribs&hide_rank=true&include_all_commits=true&layout=compact&show_icons=true&theme=maroongold)](https://github.com/sookyeongyeom/github-readme-stats) 
