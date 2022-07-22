@@ -7,7 +7,7 @@
 
 [**Svelte FE**](https://github.com/sookyeongyeom/svelte-front-end)  
 [**Programmers**](https://github.com/sookyeongyeom/programmers)  
-[**Computer Science Overview**](https://github.com/sookyeongyeom/computer-science-overview)
+[**SSK Web Front**](https://github.com/sookyeongyeom/SSK_WEB_FRONT)
 
    
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sookyeongyeom&exclude_repo=sookyeongyeom.github.io&hide_title=&hide=scss,shaderlab,HLSL,css,hack&layout=compact&langs_count=10&theme=maroongold)](https://github.com/sookyeongyeom/github-readme-stats)  -->
